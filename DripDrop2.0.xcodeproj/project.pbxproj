@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B48698521C339B10001B41D /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B48698421C339B10001B41D /* Weather.swift */; };
 		F782C8BF21C3280100D255F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F782C8BE21C3280100D255F5 /* AppDelegate.swift */; };
 		F782C8C121C3280100D255F5 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F782C8C021C3280100D255F5 /* WeatherViewController.swift */; };
 		F782C8C421C3280100D255F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F782C8C221C3280100D255F5 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B48698421C339B10001B41D /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		F782C8BB21C3280100D255F5 /* DripDrop2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DripDrop2.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F782C8BE21C3280100D255F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F782C8C021C3280100D255F5 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F782C8D621C3298400D255F5 /* Resources */,
 				F782C8D521C3297900D255F5 /* ViewControllers */,
 				F782C8D421C3296D00D255F5 /* WeatherCollectionViewCell */,
+				1B48698421C339B10001B41D /* Weather.swift */,
 			);
 			path = DripDrop2.0;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B48698521C339B10001B41D /* Weather.swift in Sources */,
 				F782C8D121C328C100D255F5 /* WeatherCollectionViewCell.swift in Sources */,
 				F782C8C121C3280100D255F5 /* WeatherViewController.swift in Sources */,
 				F782C8BF21C3280100D255F5 /* AppDelegate.swift in Sources */,
